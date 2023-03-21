@@ -1,9 +1,9 @@
-A Survey of Data Professionals
+#A Survey of Data Professionals
 
 
 
 
-Dataset Description
+#Dataset Description
 This dataset contains responses to a survey conducted on Data professionals. The survey was aimed at understanding various aspects of their professional life, 
 such as their current roles, salaries, job satisfaction, programming languages, and the difficulty of breaking into Data.
 
@@ -22,3 +22,4 @@ Q10: Current Age
 Q11: Which Country do you live in?
 Q12: Highest Level of Education
 Q13: Ethnicity
+

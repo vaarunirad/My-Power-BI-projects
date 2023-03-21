@@ -1,0 +1,24 @@
+A Survey of Data Professionals
+
+
+
+
+Dataset Description
+This dataset contains responses to a survey conducted on Data professionals. The survey was aimed at understanding various aspects of their professional life, 
+such as their current roles, salaries, job satisfaction, programming languages, and the difficulty of breaking into Data.
+
+The dataset contains the following features:
+
+Q1: Which Title Best Fits your Current Role?
+Q2: Did you switch careers into Data?
+Q3: Current Yearly Salary (in USD)
+Q4: What Industry do you work in?
+Q5: Favorite Programming Language
+Q6: How Happy are you in your Current Position with the following? (Salary), (Work/Life Balance), (Coworkers), (Management), (Upward Mobility), (Learning New Things)
+Q7: How difficult was it for you to break into Data?
+Q8: If you were to look for a new job today, what would be the most important thing to you?
+Q9: Male/Female?
+Q10: Current Age
+Q11: Which Country do you live in?
+Q12: Highest Level of Education
+Q13: Ethnicity
